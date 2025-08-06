@@ -23,3 +23,8 @@ expense-tracker add --description "Lunch" --amount 12.5
 expense-tracker list
 expense-tracker summary --month 8
 
+![GifAdd](addgif.gif)
+![GifList](listgif.gif)
+
+
+
